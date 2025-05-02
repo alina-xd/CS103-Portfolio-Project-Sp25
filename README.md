@@ -2,6 +2,8 @@
 - **Course**: CSCI103
 - **Semester**: Spring 2025
 
+## ⚔️ Knights vs Wizards: Battle for the Throne ⚔️
+
 A minimalist turn-based strategy game inspired by _The Battle of Polytopia_, redesigned to run with command line in C++.
 
 ## Team
